@@ -1,4 +1,13 @@
-# Exoplayer Installation
+# DT Test Exoplayer
+Dieser modifizierte ExoPlayer nutzt als Quelle der verfügbaren Playlists die hier verfügbare **media.exolist.json** Datei.
+
+## ExoPlayer
+ExoPlayer Version: [:label: r2.14.1](https://github.com/google/ExoPlayer/tree/r2.14.1)
+
+## Playlist
+Dieser ExoPlayer lädt beim Start die Streams/Playlists aus der [**media.exolist.json**](https://github.com/fraunhoferfokus/dt-test-exoplayer/blob/main/media.exolist.json) Datei. Diese Datei kann in diesem Repository angepasst werden.
+
+# Installation auf FireTV
 
 Zunächst muss die App „Downloader“ auf dem Fire-TV installiert werden. Diese App hilft bei der Installation von Apps aus dem Internet.
 
@@ -55,6 +64,10 @@ Textfeld auswählen, um die URL einzugeben
 ![URL eingeben](/screenshots/12_URL_eingeben.png?raw=true)
 
 Folgende URL eingeben und auf *Los* drücken:
+
+`https://s.fhg.de/dt-test-exoplayer`
+
+:warning:  Sollte es zu Problemen kommen, bitte alternative URL nutzen:
 
 `https://github.com/fraunhoferfokus/dt-test-exoplayer/blob/main/exoplayer.apk?raw=true`
 
