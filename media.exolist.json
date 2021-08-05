@@ -18,6 +18,22 @@
             "name":"Ref20-03 25 fps source SD_HEVC_DASH (HTTPS)",
             "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-07-12-001/test-2021-07-12-001/index.mpd"
          },
+	 {
+	    "name":"Test (HTTP) - Dash Ingest  DTAG-test-clip-25p-20190611-HD_HEVC_DASH (email Ruzhen 3.Aug.2021)",
+	    "uri":"http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/index.mpd"
+	 },
+         {
+            "name":"Test (HTTPS) - Dash Ingest  DTAG-test-clip-25p-20190611-HD_HEVC_DASH (email Ruzhen 3.Aug.2021)",
+            "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/index.mpd"
+         },
+	 {
+            "name":"Test (HTTP) - HSS Ingest  DTAG-test-clip-25p-20190611-SD_H_264_ISMV (email Ruzhen 3.Aug.2021)",
+            "uri":"http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/index.mpd"
+         },
+         {
+            "name":"Test (HTTPS) - HSS Ingest  DTAG-test-clip-25p-20190611-SD_H_264_ISMV (email Ruzhen 3.Aug.2021)",
+            "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/index.mpd"
+         },
 {
         "name": "ARD Live (Widevine DRM)",
         "uri": "https://ber-et-01--svc40.main.px.t-online.de/LCID3221228143.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228143/3221228143.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EJyc5Ch5qScekJZABAr_obQ%7EeBZFfnCRf2UmjwqzZXEsgUlOqdbuDJs4F45klOT8YRB9Ij8FEXQy5NG06sWeylBuAN-uzGrr-WGCXQQ7JFtoRay81YL4aSpOyWbB4v3pmOJhUAlCWh3it_Un-tXgIkoM%3A20210720132406%3AUTC%2C1086169643%2C79.215.217.49%2C20210720132406%2Cdas-erste%2CDD322D61274B89152808936BFBFDC94F%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000222902844%2C0%2C120049010000000222902844%2C9b568f4b-26e3-45a5-b7dd-7b0c32251321%2C7%2CEND&GuardEncType=2&dp=0&i=1&sid=DD322D61274B89152808936BFBFDC94F&uid=120049010000000222902844&audioLanguage=deu",
