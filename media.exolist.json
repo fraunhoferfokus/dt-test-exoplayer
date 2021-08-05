@@ -15,8 +15,24 @@
             "uri":"http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-07-12-001/test-2021-07-12-001/index.mpd"
          },
          {
-            "name":"Ref20-03 25 fps sourceSD_HEVC_DASH (HTTPS)",
+            "name":"Ref20-03 25 fps source SD_HEVC_DASH (HTTPS)",
             "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-07-12-001/test-2021-07-12-001/index.mpd"
+         },
+         {
+            "name":"DASH Ingest (email Ruzhen 3.Aug.2021) HD_HEVC_DASH (HTTP)",
+            "uri":"http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/index.mpd"
+         },
+         {
+            "name":"DASH Ingest (email Ruzhen 3.Aug.2021) HD_HEVC_DASH (HTTPS)",
+            "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/index.mpd"
+         },
+         {
+            "name":"HSS Ingest (email Ruzhen 3.Aug.2021) SD_H264_ISMV (HTTP)",
+            "uri":"http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/index.mpd"
+         },
+         {
+            "name":"HSS Ingest (email Ruzhen 3.Aug.2021) SD_H264_ISMV (HTTPS)",
+            "uri":"https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/index.mpd"
          },
 {
         "name": "ARD Live (Widevine DRM)",
