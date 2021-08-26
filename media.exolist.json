@@ -20,7 +20,7 @@
             },
             {
                 "name": "Test (HTTP) - Dash Ingest  Ref20-03 25 fps source SD_HEVC_DASH (email Nicolas 26.Aug.2021)",
-                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-08-24-002/test-2021-08-24-002/index.mpd"
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-08-24-002/test-2021-08-24-002/index.mpd"
             },
             {
                 "name": "Test (HTTPS) - Dash Ingest  Ref20-03 25 fps source SD_HEVC_DASH (email Nicolas 26.Aug.2021)",
@@ -73,6 +73,30 @@
             {
                 "name": "Test (HTTPS) - HSS Ingest  MPX AES encrypted HD_H.264_ISMV (email Ruzhen 5.Aug.2021)",
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/index.mpd"
+            },
+            {
+                "name": "Test (HTTP) - Dash Ingest  ALN SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
+            },
+            {
+                "name": "Test (HTTPS) - Dash Ingest  ALN SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
+            },
+            {
+                "name": "Test (HTTP) - Dash Ingest  ALN HD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.mpd"
+            },
+            {
+                "name": "Test (HTTPS) - Dash Ingest  ALN HD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.mpd"
+            },
+            {
+                "name": "Test (HTTP) - HSS Ingest  ALN SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
+            },
+            {
+                "name": "Test (HTTPS) - HSS Ingest  ALN SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
             },
             {
                 "name": "ARD Live (Widevine DRM)",
