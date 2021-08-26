@@ -11,14 +11,6 @@
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-06-03-002/test-2021-06-03-002/index.mpd"
             },
             {
-                "name": "Ref20-03 25 fps source SD_HEVC_DASH",
-                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-07-12-001/test-2021-07-12-001/index.mpd"
-            },
-            {
-                "name": "Ref20-03 25 fps source SD_HEVC_DASH (HTTPS)",
-                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-07-12-001/test-2021-07-12-001/index.mpd"
-            },
-            {
                 "name": "Test (HTTP) - Dash Ingest  Ref20-03 25 fps source SD_HEVC_DASH (email Nicolas 26.Aug.2021)",
                 "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-08-26-001/test-2021-08-26-001/index.mpd"
             },
@@ -75,28 +67,28 @@
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/index.mpd"
             },
             {
-                "name": "Test (HTTP) - Dash Ingest  KgT SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
-                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
+                "name": "Test (HTTP) - Dash Ingest  AE SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
             },
             {
-                "name": "Test (HTTPS) - Dash Ingest  KgT SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
-                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
+                "name": "Test (HTTPS) - Dash Ingest  AE SD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.mpd"
             },
             {
-                "name": "Test (HTTP) - HSS Ingest  KgT SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
-                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
+                "name": "Test (HTTP) - Dash Ingest  AE HD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.mpd"
             },
             {
-                "name": "Test (HTTPS) - HSS Ingest  KgT SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
-                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
+                "name": "Test (HTTPS) - Dash Ingest  AE HD_HEVC_DASH (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.mpd"
             },
             {
-                "name": "Test (HTTP) - HSS Ingest  Arm SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
-                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Armored_MAIN-SD_H_264_ISMV_zip/Armored_MAIN-SD_H_264_ISMV_zip/index.mpd"
+                "name": "Test (HTTP) - HSS Ingest  AE SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
+                "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
             },
             {
-                "name": "Test (HTTPS) - HSS Ingest  Arm SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
-                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Armored_MAIN-SD_H_264_ISMV_zip/Armored_MAIN-SD_H_264_ISMV_zip/index.mpd"
+                "name": "Test (HTTPS) - HSS Ingest  AE SD_H_264_ISMV (email Ruzhen 5.Aug.2021)",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.mpd"
             },
             {
                 "name": "ARD Live (Widevine DRM)",
