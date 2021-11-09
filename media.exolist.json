@@ -3,6 +3,10 @@
         "name": "Telekom",
         "samples": [
             {
+                "name": "Big Buck Bunny",
+                "uri": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"
+            },
+            {
                 "name": "Test",
                 "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-06-03-002/test-2021-06-03-002/index.mpd"
             },
