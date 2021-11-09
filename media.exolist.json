@@ -3,34 +3,6 @@
         "name": "Telekom",
         "samples": [
             {
-                "name": "Big Buck Bunny",
-                "uri": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"
-            },
-            {
-                "name": "Envio",
-                "uri": "https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd"
-            },
-            {
-                "name": "Apple HLS Stream",
-                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
-            },
-            {
-                "name": "Forced Subtitles",
-                "uri": "http://dash.fokus.fraunhofer.de/dt/subtitles/forced-subtitle.mpd"
-            },
-            {
-                "name": "Multi Forced Subtitles",
-                "uri": "http://dash.fokus.fraunhofer.de/dt/subtitles/multi-forced-subtitle.mpd"
-            },
-            {
-                "name": "Multi_Forced_Subtitles",
-                "uri": "http://dash.fokus.fraunhofer.de/dt/subtitles/multi_forced_subtitle.mpd"
-            },
-            {
-                "name": "Description",
-                "uri": "http://dash.fokus.fraunhofer.de/dt/subtitles/description.mpd"
-            },        
-            {
                 "name": "Test",
                 "uri": "http://xs22.tv.telekom.net/bpk-vod/vod_clear/default/test-2021-06-03-002/test-2021-06-03-002/index.mpd"
             },
