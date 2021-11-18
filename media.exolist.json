@@ -243,5 +243,49 @@
                 "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=MmY3NWUyNzktNTkwYi0zZjE0LTllMGUtOTA1OWM5NTVjNzg4"
             }
         ]
-    }
+    },
+    {
+      "name:" "2012",
+      "samples": [  
+            {
+                "name": "2012_MAIN_MOVIE SD_H.264_ISMV",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941469626/test-CP9221438342941469626/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=KivMnK1iCvmn"
+                
+            },
+            {
+                "name": "2012_MAIN_MOVIE HD_H.264_ISMV",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941469627/test-CP9221438342941469627/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=eBlttQpJOD5R"
+                
+            },
+            {
+                "name": "2012_MAIN_MOVIE SD_HEVC_DASH",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941134491/test-CP9221438342941134491/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=16uFMFUY4_2f"  
+            },
+            {
+                "name": "2012_MAIN_MOVIE HD_HEVC_DASH",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941134490/test-CP9221438342941134490/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=MG8JX5fuKRyA"  
+            },
+            {
+                "name": "2012_MAIN_MOVIE 4K_HEVC_DASH",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941134489/test-CP9221438342941134489/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=P4VmUYBbkIEq"  
+            },
+            {
+                "name": "2012_MAIN_MOVIE 4K_HEVC_DASH_HDR",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-CP9221438342941134488/test-CP9221438342941134488/index.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGV0ZXN0LWFnZHIvdGVzdFVzZXIxIiwiaXNzIjoiMSIsImV4cCI6MTY0NDg4ODUwOCwiaWF0IjoxNjI5MTIwNTA4ODI4LCJqdGkiOiIxZmIxYzE0ZS01NGIyLTQ1YjgtYjAxMS05Njg1MGNiM2FhMGUiLCJkaWQiOiJtZGV0ZXN0LWFnZHIiLCJ1bm0iOiJ0ZXN0VXNlcjEiLCJjdHgiOiJ7XCJ1c2VyTmFtZVwiOiBcInRlc3RVc2VyMVwiLFwiaWRcIjogXCJ0ZXN0VXNlcjFcIixcImF0dHJpYnV0ZXNcIjoge1wiQWxsQWNjZXNzXCI6IFRydWV9fVxuIiwib2lkIjpudWxsfQ.DdmNug8ghJPCX_eTE4Zduwz5qZba43fyhxTuRHmWLBlXEOcww7rrSMd16yARKaypC7kDjTj1qgVSyKGpUIRq7IWp85k0-jYHTUMmi2h8Bu9X4pqCeUq0IFzxXvGDehkbd6N5zs3ETFNc7FdtFJUa7v06dY_NFQ4IrZyQV2PsjEZJL1JtjGrOdF_OdIOVmkUSI4nIHxCTkTsHT-DIEq50cOIBwvLkz7p5IoCe5L6bO1PzKGA2FIRBj_UIeDqqGSnUCVg7GtwTHg3IloveuQnesb3Bts6LwN-GkINxtUbf1uQWmR6LDtKAwLYCWhwUPv4SUYOzJ6SqrWntxFopusP10Q&account=http://access.auth.theplatform.com/data/Account/2709353959&releasePid=CbpgV_sUOnH_"  
+            }
+        
+      ]
+    }    
 ]
