@@ -70,9 +70,10 @@
                 "name": "Test (HTTPS) - HSS Ingest  MPX AES encrypted HD_H.264_ISMV (email Ruzhen 5.Aug.2021)",
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/index.mpd"
             },
+            
             {
-                "name": "Erlöse uns von dem Bösen"
-                [
+                "name": "Erlöse uns von dem Bösen",
+                "samples": [
             {
                 "name": "Erlöse uns von dem Bösen_MAIN_MOVIE SD_H.264_ISMV",
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-9221438342940831622/test-9221438342940831622/index.mpd",
