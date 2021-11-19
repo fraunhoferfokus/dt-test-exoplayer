@@ -3,6 +3,11 @@
         "name": "Telekom",
         "samples": [
             {
+                "name": "Vinzenzo Demo",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear_nfs/default/test-ac4defb9d86f4bf898240da6a9575b99/test-ac4defb9d86f4bf898240da6a9575b99/index.mpd"
+            },
+            
+            {
                 "name": "Big Buck Bunny",
                 "uri": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"
             },
