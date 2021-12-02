@@ -400,6 +400,24 @@
                 "drm_scheme": "widevine",
                 "name": "H264/AAC CENC with video (L1) and audio (L3) protected using different KIDs",
                 "uri": "https://dash.fokus.fraunhofer.de/dt-sl3000/dash-wv-3/Manifest.mpd"
+            },
+            {
+                "drm_license_uri": "https://transcoder.fokus.fraunhofer.de/PlayReady",
+                "drm_scheme": "playready",
+                "name": "H264/AAC CENC with video (SL2000) and audio (SL2000) protected using same KIDs (PR)",
+                "uri": "https://dash.fokus.fraunhofer.de/dt-sl3000/dash-pr-1/Manifest.mpd"
+            },
+            {
+                "drm_license_uri": "https://transcoder.fokus.fraunhofer.de/PlayReady",
+                "drm_scheme": "playready",
+                "name": "H264/AAC CENC with video (SL2000) and audio (SL2000) protected using different KIDs (PR)",
+                "uri": "https://dash.fokus.fraunhofer.de/dt-sl3000/dash-pr-2/Manifest.mpd"
+            },
+            {
+                "drm_license_uri": "https://transcoder.fokus.fraunhofer.de/PlayReady",
+                "drm_scheme": "playready",
+                "name": "H264/AAC CENC with video (SL3000) and audio (SL2000) protected using different KIDs (PR)",
+                "uri": "https://dash.fokus.fraunhofer.de/dt-sl3000/dash-pr-3/Manifest.mpd"
             }
         ]
     }
