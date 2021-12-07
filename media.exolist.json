@@ -105,10 +105,10 @@
                 "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_nfs/default/test-229159/test-229159/index.mpd"
             },
             {
-                "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=MmY3NWUyNzktNTkwYi0zZjE0LTllMGUtOTA1OWM5NTVjNzg4",
+                "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=ZGI3MWUwY2EtNmYxZC0zZWNiLWE0NmEtNDYxNjE0ZTM3N2U4",
                 "drm_scheme": "widevine",
                 "name": "ARD Live (Widevine DRM)",
-                "uri": "https://ber-et-01--svc40.main.px.t-online.de/LCID3221228143.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228143/3221228143.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EJyc5Ch5qScekJZABAr_obQ%7EeBZFfnCRf2UmjwqzZXEsgUlOqdbuDJs4F45klOT8YRB9Ij8FEXQy5NG06sWeylBuAN-uzGrr-WGCXQQ7JFtoRay81YL4aSpOyWbB4v3pmOJhUAlCWh3it_Un-tXgIkoM%3A20210720132406%3AUTC%2C1086169643%2C79.215.217.49%2C20210720132406%2Cdas-erste%2CDD322D61274B89152808936BFBFDC94F%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000222902844%2C0%2C120049010000000222902844%2C9b568f4b-26e3-45a5-b7dd-7b0c32251321%2C7%2CEND&GuardEncType=2&dp=0&i=1&sid=DD322D61274B89152808936BFBFDC94F&uid=120049010000000222902844&audioLanguage=deu"
+                "uri": "https://svc40.main.sl.t-online.de/LCID3221228143.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228143/3221228143.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=~~V2.0~Jyc5Ch5qScekJZABAr_obQ~iisC6AU3U9Uu3rwbWJuEk6pNuRcTAJPkbfA1qhiR3e0JZaB6ihq5cHJT3SFQ-c6kYxT7Ld_75F2vGrxUbmixdw_LTNFnarRwLHILGPMfWSBgwlMEgNGPtJG5zcaNV_WO:20211207092309:UTC,1089012981,87.173.149.53,20211207092309,das-erste,B7FC6250482418AE65D40A310A4AA589,-1,0,1,,,2,,,,2,120049010000000074156467,0,120049010000000074156467,9b568f4b-26e3-45a5-b7dd-7b0c32251321,7,END&GuardEncType=2&dp=0&i=0&sid=B7FC6250482418AE65D40A310A4AA589&uid=120049010000000074156467&audioLanguage=deu"
             }
         ]
     },
