@@ -389,6 +389,18 @@
                 "drm_scheme": "widevine",
                 "name": "HDCP no digital output",
                 "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd"
+            },
+            {
+                "name": "HD (cenc)",
+                "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"    
+            },
+            {
+                "name": "UHD (cenc)",
+                "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears_uhd.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"    
             }
         ]
     },
