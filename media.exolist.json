@@ -431,10 +431,19 @@
         "name": "TVTE-34527: NPVR",
         "samples": [
             {
-                "name": "NPVR: 20211223 - SAT.1 Gold",
+                "name": "NPVR: 20211223 - SAT.1 Gold (Query-param deviceId)",
                 "uri": "https://appnpvfk10033.prod.sngtv.t-online.de/88888888/224/3426/2021/12/23/191200/120049010000000106669490/9434213093/index.m3u8/PolicyMode_hls2dash.MPD?cloudpvr=3243,172.29.88.93,863&servicetype=4&accountinfo=0QdBSZCdfS0oVdiIGGOOXj%2FAv7B23Yqu58WZ7RuVbA6z4ccWrk%2F9tgb3EWa%2BwRHshRQEoofYfvSYHjxa9Up1ecz4uSeX%2BQvx3jcxEUMq6di9rbuWbNbmHYTNJ1TkmUk6ciorKN8rr%2Bp9Cg4obAxs7a8YgqFf3%2B6Xb9afhg5MDoEjeMs0ITXdBnqCSCpzUMnviQVNuPisLDXgNFRN6UcKIw%3D%3D%3A20220120122900%3AUTC%2C1091463150%2C80.146.191.220%2C20220120122900%2Csat.1-gold%2C948254ADF54FBB2096B1DD0D0F1B1BA5%2C-1%2C1%2C1%2C%2C%2C11%2Cfta_ott_new%2C%2C%2C8%2C120049010000000106669490%2C0%2C120049010000000106669490%2C1de1f318-48b1-449e-a804-309f83e07b60%2C7%2CEND&GuardEncType=2",
                 "drm_scheme": "widevine",
                 "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=ZjRhNzUxM2MtYzE3Yi0zYzBjLWJmY2MtNTI4YzU1ZTVkZjBj"
+            },
+            {
+                "name": "NPVR: 20211223 - SAT.1 Gold (Header-param deviceId)",
+                "uri": "https://appnpvfk10033.prod.sngtv.t-online.de/88888888/224/3426/2021/12/23/191200/120049010000000106669490/9434213093/index.m3u8/PolicyMode_hls2dash.MPD?cloudpvr=3243,172.29.88.93,863&servicetype=4&accountinfo=0QdBSZCdfS0oVdiIGGOOXj%2FAv7B23Yqu58WZ7RuVbA6z4ccWrk%2F9tgb3EWa%2BwRHshRQEoofYfvSYHjxa9Up1ecz4uSeX%2BQvx3jcxEUMq6di9rbuWbNbmHYTNJ1TkmUk6ciorKN8rr%2Bp9Cg4obAxs7a8YgqFf3%2B6Xb9afhg5MDoEjeMs0ITXdBnqCSCpzUMnviQVNuPisLDXgNFRN6UcKIw%3D%3D%3A20220120122900%3AUTC%2C1091463150%2C80.146.191.220%2C20220120122900%2Csat.1-gold%2C948254ADF54FBB2096B1DD0D0F1B1BA5%2C-1%2C1%2C1%2C%2C%2C11%2Cfta_ott_new%2C%2C%2C8%2C120049010000000106669490%2C0%2C120049010000000106669490%2C1de1f318-48b1-449e-a804-309f83e07b60%2C7%2CEND&GuardEncType=2",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=ZjRhNzUxM2MtYzE3Yi0zYzBjLWJmY2MtNTI4YzU1ZTVkZjBj",
+                "drm_key_request_properties": {
+                    "deviceId": "f4a7513c-c17b-3c0c-bfcc-528c55e5df0c"
+                }
             },
             {
                 "name": "NPVR: Test 1",
