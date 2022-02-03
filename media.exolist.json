@@ -464,11 +464,11 @@
         "samples": [
             {
                 "name": "ArteHD",
-                "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ARTE_HD/DASH/index.mpd"
+                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/ARTE_HD/DASH/index.mpd"
             },
             {
                 "name": "Das Erste HD",
-                "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/Das_Erste_HD/DASH/index.mpd"
+                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/Das_Erste_HD/DASH/index.mpd"
             }
         ]
     }
