@@ -2880,6 +2880,18 @@
                 "drm_scheme": "playready",
                 "name": "H264/AAC CENC with video (SL3000) and audio (SL2000) protected using different KIDs (PR)",
                 "uri": "https://dash.fokus.fraunhofer.de/dt-sl3000/dash-pr-3/Manifest.mpd"
+            },
+            {
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGVwcm9kLWFnZHIvMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwIiwiaXNzIjoiMSIsImV4cCI6MTY0ODA0NTAxOCwiaWF0IjoxNjQ3OTU4NjE4ODk2LCJqdGkiOiI5ZmU3N2I4Yy03ODVjLTQ0ZmEtYjM0OC04Y2YzMTRiYTVmMmEiLCJkaWQiOiJtZGVwcm9kLWFnZHIiLCJ1bm0iOiIxMjAwNDkwMTAwMDAwMDAxMjM4MDMwODAiLCJjdHgiOiJ7XCJpZFwiOlwiMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwXCIsXCJ1c2VyTmFtZVwiOlwiMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwXCIsXCJlbWFpbFwiOlwiXCIsXCJmdWxsTmFtZVwiOlwiXCIsXCJhdHRyaWJ1dGVzXCI6e1widXJuOnRoZXBsYXRmb3JtOmNvbnN1bWVyOmFjY291bnRcIjpcImh0dHBzOi8vYWNjb3VudHMuYXVkaWVuY2Uub2EueW8tZGlnaXRhbC5jb20vYWNjb3VudHMvMjcwOTM1MzAyMy9kYzIxMzM5NS0wMjljLTRjOTQtODAzYi0wZDc3NTgzZjZmNjhcIixcInVybjp0aGVwbGF0Zm9ybTpjb25zdW1lcjphY2NvdW50OnBlcnNvbmFcIjpcImh0dHBzOi8vYWNjb3VudHMuYXVkaWVuY2Uub2EueW8tZGlnaXRhbC5jb20vYWNjb3VudHMvMjcwOTM1MzAyMy9kYzIxMzM5NS0wMjljLTRjOTQtODAzYi0wZDc3NTgzZjZmNjgvcGVyc29uYXMvNDdmOThhOGEtMmUyNC00MzYwLTg3MTUtZWExZmFkMzNiNWY2XCJ9fVxuIiwib2lkIjpudWxsfQ.AayXNCOgURxWyCPVwoP1miz8F7qF60wSENXQXEnPiTESJZSSjNBSRWdJLlWIHa7L18n_PgASsKdzOGaM4l5-9QBMyEoRIHnJRZUaxOEMr6DTSXsG0mqEa9UdO5J6d_8_CZvsQEulSSLDo1juqdT32RryK4-naLYmeQyP9dlc7nGyOKZF4V28OZAy1JRhSgXoTyckA6GOKjwwd3jnQT0Ekd7Ejr67xLNcOkqSQdFAb1miIYdiTOHt2YPbvxksez4IvsXFNLVQQ2wpUFL5rjBm0PHfzFNWMvkTYhh981J-IbmItC9d0Lpn9OOxX0lKINoXaLUfKeRSRneXe7PJZdytDw&account=http://access.auth.theplatform.com/data/Account/2709353023&releasePid=aqpZjQ96SQVL",
+                "drm_scheme": "widevine",
+                "name": "1 Adaptation Set SD/HD/UHD",
+                "uri": "https://dash.fokus.fraunhofer.de/tests/ftp22/1adaptationset.mpd"
+            },
+            {
+                "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGVwcm9kLWFnZHIvMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwIiwiaXNzIjoiMSIsImV4cCI6MTY0ODA0NTAxOCwiaWF0IjoxNjQ3OTU4NjE4ODk2LCJqdGkiOiI5ZmU3N2I4Yy03ODVjLTQ0ZmEtYjM0OC04Y2YzMTRiYTVmMmEiLCJkaWQiOiJtZGVwcm9kLWFnZHIiLCJ1bm0iOiIxMjAwNDkwMTAwMDAwMDAxMjM4MDMwODAiLCJjdHgiOiJ7XCJpZFwiOlwiMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwXCIsXCJ1c2VyTmFtZVwiOlwiMTIwMDQ5MDEwMDAwMDAwMTIzODAzMDgwXCIsXCJlbWFpbFwiOlwiXCIsXCJmdWxsTmFtZVwiOlwiXCIsXCJhdHRyaWJ1dGVzXCI6e1widXJuOnRoZXBsYXRmb3JtOmNvbnN1bWVyOmFjY291bnRcIjpcImh0dHBzOi8vYWNjb3VudHMuYXVkaWVuY2Uub2EueW8tZGlnaXRhbC5jb20vYWNjb3VudHMvMjcwOTM1MzAyMy9kYzIxMzM5NS0wMjljLTRjOTQtODAzYi0wZDc3NTgzZjZmNjhcIixcInVybjp0aGVwbGF0Zm9ybTpjb25zdW1lcjphY2NvdW50OnBlcnNvbmFcIjpcImh0dHBzOi8vYWNjb3VudHMuYXVkaWVuY2Uub2EueW8tZGlnaXRhbC5jb20vYWNjb3VudHMvMjcwOTM1MzAyMy9kYzIxMzM5NS0wMjljLTRjOTQtODAzYi0wZDc3NTgzZjZmNjgvcGVyc29uYXMvNDdmOThhOGEtMmUyNC00MzYwLTg3MTUtZWExZmFkMzNiNWY2XCJ9fVxuIiwib2lkIjpudWxsfQ.AayXNCOgURxWyCPVwoP1miz8F7qF60wSENXQXEnPiTESJZSSjNBSRWdJLlWIHa7L18n_PgASsKdzOGaM4l5-9QBMyEoRIHnJRZUaxOEMr6DTSXsG0mqEa9UdO5J6d_8_CZvsQEulSSLDo1juqdT32RryK4-naLYmeQyP9dlc7nGyOKZF4V28OZAy1JRhSgXoTyckA6GOKjwwd3jnQT0Ekd7Ejr67xLNcOkqSQdFAb1miIYdiTOHt2YPbvxksez4IvsXFNLVQQ2wpUFL5rjBm0PHfzFNWMvkTYhh981J-IbmItC9d0Lpn9OOxX0lKINoXaLUfKeRSRneXe7PJZdytDw&account=http://access.auth.theplatform.com/data/Account/2709353023&releasePid=aqpZjQ96SQVL",
+                "drm_scheme": "widevine",
+                "name": "Supplemental Property Switching Set",
+                "uri": "https://dash.fokus.fraunhofer.de/tests/ftp22/switching-set.mpd"
             }
         ]
     },
