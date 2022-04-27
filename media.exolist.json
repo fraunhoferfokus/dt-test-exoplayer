@@ -41,6 +41,17 @@
             
         ]
     },
+    {
+      "name": "Dev Tests",
+       "samples": [        
+              {
+               "drm_license_uri": "https://widevine.entitlement.eu.theplatform.com/wv/web/ModularDrm/getRawWidevineLicense?form=json&schema=1.0&token=eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJtZGVkZXYtYWdkci8xMjAwNDkwMTAwMDAwMDAwMDAxODE4MzUiLCJpc3MiOiIxIiwiZXhwIjoxNjUxMTY3MTE0LCJpYXQiOjE2NTEwODA3MTQ1MjksImp0aSI6Ijk5NGM2NjFlLTFjNDAtNDA1OS1hODk0LTQ4YjE1NGI0YTgxZiIsImRpZCI6Im1kZWRldi1hZ2RyIiwidW5tIjoiMTIwMDQ5MDEwMDAwMDAwMDAwMTgxODM1IiwiY3R4Ijoie1wiaWRcIjpcIjEyMDA0OTAxMDAwMDAwMDAwMDE4MTgzNVwiLFwidXNlck5hbWVcIjpcIjEyMDA0OTAxMDAwMDAwMDAwMDE4MTgzNVwiLFwiZW1haWxcIjpcIlwiLFwiZnVsbE5hbWVcIjpcIlwiLFwiYXR0cmlidXRlc1wiOntcInVybjp0aGVwbGF0Zm9ybTpjb25zdW1lcjphY2NvdW50XCI6XCJodHRwczovL2FjY291bnRzLmF1ZGllbmNlLmRldi5vYS55by1kaWdpdGFsLmNvbS9hY2NvdW50cy8yNzA5MTY5OTY5LzUwMjUyMGFlLTIxYzMtNDZiYi1hZjc3LWFmNTUwNWQ4ZTRmZVwiLFwidXJuOnRoZXBsYXRmb3JtOmNvbnN1bWVyOmFjY291bnQ6cGVyc29uYVwiOlwiaHR0cHM6Ly9hY2NvdW50cy5hdWRpZW5jZS5kZXYub2EueW8tZGlnaXRhbC5jb20vYWNjb3VudHMvMjcwOTE2OTk2OS81MDI1MjBhZS0yMWMzLTQ2YmItYWY3Ny1hZjU1MDVkOGU0ZmUvcGVyc29uYXMvOGYwNDQ4OTEtYmM2Yy00Y2UwLWIxNTUtNWFmNzgyNjIzYmY0XCJ9fVxuIiwib2lkIjpudWxsfQ.IQfzLrEFq0lhfUFvCalDaCkwBz44C5ENXTYritgNlmTG6sWTWQUvC4DPf8fMLgnxOLWoBXHxXIXfFA-Du_kCtFgUCa3RMqiNeAUy8dVRq54PCnGvBbaazy-1stY3-du8wBzXlR-nZbiW1yuSdV0KftSxj1ZQVrkta8VpLChU4D8gyX6ncR5Ds7ci4c21lBDPWJx6WgP8AqrX0Vbikm1N_MMEov6k3FlB-T6NvP-KKkSgetzm8SboVWE-9QJP8cRHc9tGo7JqqO3n7PknlZvxbKUPEyQ1dcdl-WpYkmwy70TkB3fG8xNA8VVe4qzCWpdh7ifg5v1Tx0k1V1GnnFIjPg&account=http://access.auth.theplatform.com/data/Account/2709169969&releasePid=1PRWBoo4oL5A",
+                "drm_scheme": "widevine",
+                "name": "MDE-DEV Der Vertrimmte_MAIN_MOVIEHD_H.264_ISMV",
+                "uri": "https://xs22.tv.telekom.net/bpk-vod/vod/default/dev-229272/dev-229272/index.mpd"   
+              }
+          ]
+    },   
     {   
        "name": "FUT 1 Tests",
        "samples": [
