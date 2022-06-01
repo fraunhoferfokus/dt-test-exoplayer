@@ -52,6 +52,15 @@
               }
           ]
     },   
+   {
+      "name": "AD Test ngtv",
+       "samples": [        
+             {
+                "name": "youspace Adclip Jens 01062022",
+                "uri": "https://csm-e-cedeveurxaws101j8-20qcsm7hcksw.bln1.yospace.com/csm/builder/475934952,475935016,475934998,proxy.1.mpd?yo.p.si=csm-e-cedeveurxaws101j8-20qcsm7hcksw-1253-1653372235985&yo.p.ci=462222996&yo.p.fn=aHR0cDovL3hzMjgubGEudC1vbmxpbmUuZGUvc21vb3RoMDEvc3RyZWFtaW5nL2plcnByb3ZpZGVyLzIzMzcxOC82Mzc2Nzk3Mzc4NzIwNDUzMzkvRFRBRy10ZXN0LWNsaXAtMjVwX2RldV8yMF8xMzAwa19IRF9IXzI2NF9JU01WLmlzbS9pbmRleC5tcGQ&yo.p.bp=VMAP&yo.p.cu=&redacted_client_ip=195.13.41.0&encrypted_client_user_agent=MZJ4sutcv_cCccf7T8Az9jkr5OTtpH_EFTn9gR3DzUxq9WYZWovYWlcz-kDaOLhlEXxSVrPopPoQucGdTn8tLA%3D%3D&client_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F101.0.4951.67+Safari%2F537.36&encrypted_client_ip=Qi6kWpdfFSfI7Um6VeUm39u6O46FvtvbvXf38NjqCYA6pZsAz6-J6gOSx27CSFBd9utT1j_PJP9C6UM0DtnJoQ%3D%3D&client_ip=195.13.41.220&yo.ap=http%3A%2F%2Forigin.dmms.telekom-dienste.de%2Fadcontent%2F&bp=0.0%3B3&original_breakpoints=0.0%3B3&translated_breakpoints=00%3A00%3A00.000"   
+              }
+          ]
+    },   
     {   
        "name": "FUT 1 Tests",
        "samples": [
