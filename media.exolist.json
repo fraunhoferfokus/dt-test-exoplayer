@@ -1,47 +1,28 @@
 [
-   {
-        "name": "FTV Live (unencrypted)",
-        "samples": [
-            {
-                "name": "ArteHD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/ARTE_HD/DASH/index.mpd"
-            },
-            {
-                "name": "Das Erste HD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/Das_Erste_HD/DASH/index.mpd"
-            },
-            {
-                "name": "Deluxe Music HD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/Deluxe_Music_HD/DASH/index.mpd"
-            },
-            {
-                "name": "Kabel 1 HD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/Kabel_1_SD/DASH/index.mpd"
-            },
-            {
-                "name": "iSIMS-B",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/ISIMS_B/DASH/index.mpd"
-            },
-            {
-                "name": "ProSieben HD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/ProSieben_HD/DASH/index.mpd"
-            },
-            {
-                "name": "RTL SD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/rtl_sd/DASH/index.mpd"
-            },
-            {
-                "name": "Welt HD",
-                "uri": "https://svc45.main.xpx.t-online.de/bpk-tv/Welt_HD/DASH/index.mpd"
-            },
-            {
-                "name": "ZDF HD",
-                "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ZDF_HD/DASH/index.mpd"
-            }
-            
-        ]
-    },
     {
+      "name": "UHD NGTV",
+       "samples": [        
+              {
+               "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063?deviceId=ZDA2M2U3N2ItZWNlOC0zNWI3LWE4OGMtZWJmNzk0ZTgyM2Vk",
+                "drm_scheme": "widevine",
+                "name": "L04 UHD DASH",
+                "uri": "https://svc40.main.vr.t-online.de/LCID3221228599.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228599/3221228599.mpd"   
+              },
+             {
+               "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063?deviceId=ZDA2M2U3N2ItZWNlOC0zNWI3LWE4OGMtZWJmNzk0ZTgyM2Vk",
+                "drm_scheme": "widevine",
+                "name": "UHD-RTL_Test-Env",
+                "uri": "https://ul-et01--svc40.main.xpx.t-online.de/LCID3221232358.slbrrmdat11100.tu0.sngtv.t-online.de/PLTV/88888888/224/3221232358/3221232358.mpd?rrsip=slbrrmdat11100.tu0.sngtv.t-online.de&zoneoffset=0&servicetype=1"   
+              },
+              {
+               "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063?deviceId=ZDA2M2U3N2ItZWNlOC0zNWI3LWE4OGMtZWJmNzk0ZTgyM2Vk",
+                "drm_scheme": "widevine",
+                "name": "Testchannel_04-UHD-Prod",
+                "uri": "https://svc40.main.px.t-online.de/LCID3221228597.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228597/3221228597.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1"   
+              }
+          ]
+    },  
+   {
       "name": "Dev Tests",
        "samples": [        
               {
