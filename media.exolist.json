@@ -2324,5 +2324,19 @@
                 "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/?deviceId=ZTdhYzQxZGYtY2UxOC0zZDE4LWE2NDQtNTczNGZjMDAyNTVm"
             }
         ]
+    },
+    {
+        "name": "TVTE-43075: E4007000",
+        "samples": [
+            {
+                "name": "Das Erste HD",
+                "uri": "https://bln11-et-03--svc40.main.px.t-online.de/LCID3221228143.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228143/3221228143.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "https://vmxdrmfklb1.sfm.t-online.de:8063/",
+                "drm_key_request_properties": {
+                    "deviceId": "5f9012d6-3a00-3cb9-9551-2c2998c099ea"
+                }
+            }
+        ]
     }
 ]
